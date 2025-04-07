@@ -80,7 +80,7 @@ For detailed explanations of the theoretical background and methodology, please 
 
 ## License
 
-*(Insert appropriate license information here, if applicable.)*
+*ANTI-CAPITALIST SOFTWARE LICENSE (v 1.4)* 2025 © Lino Casu
 
 ## Contact
 
