@@ -10,7 +10,7 @@ This repository contains scripts and resources to estimate black hole masses fro
 - **mass-calculation-try.pdf**  
   A PDF paper that details the theoretical background and methodology of the segmented spacetime approach.
 
-- **dependencies-install-2.sh**  
+- **dependencies-install.sh**  
   A shell script to create and set up the required Conda environment (`ligo_env`) with all necessary dependencies (e.g., PyCBC, LALSuite).
 
 - **README.md**  
@@ -46,7 +46,7 @@ conda activate ligo_env
 4. **Run the analysis script:**  
 Execute the script using:
 
-python mass-calculation-try.py
+python mass-calculation-final-try.py
 
 **Note:** Although the file extension is `.pdf`, it contains the complete Python code. Please ensure you are using the correct version.
 
