@@ -28,7 +28,7 @@ This repository contains scripts and resources to estimate black hole masses fro
 1. **Make the shell script executable:**  
    Open a terminal in the repository directory and run:
    
-chmod a+x dependencies-install-2.sh
+chmod a+x dependencies-install.sh
 
 
 2. **Install dependencies:**  
