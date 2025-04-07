@@ -1,7 +1,5 @@
 # TRY_TO_CALCULATE_CHIRP_MASS_OUT_OF_LIGO_STRAINS
 
-# LIGO-STRAINS-TO-MASS-TRY
-
 This repository contains scripts and resources to estimate black hole masses from LIGO strain data using a novel approach based on segmented spacetime. The model combines both a segmented FFT analysis and refined matched filtering to produce realistic mass estimates.
 
 ## Contents
