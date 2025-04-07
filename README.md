@@ -48,7 +48,7 @@ Execute the script using:
 
 python mass-calculation-final-try.py
 
-**Note:** Although the file extension is `.pdf`, it contains the complete Python code. Please ensure you are using the correct version.
+**Note:** The file contains the complete Python code. Please ensure you are using the correct version.
 
 ## How It Works
 
